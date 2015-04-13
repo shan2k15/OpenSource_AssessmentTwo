@@ -1,0 +1,33 @@
+Original statistics:
+====================
+Vehicle: Audi A6
+0km travelled requiring 0 litres of fuel at a cost of $0
+No travel has been recorded yet.
+No fuel has been purchased yet.
+Vehicle: Jaguar X200
+0km travelled requiring 0 litres of fuel at a cost of $0
+No travel has been recorded yet.
+No fuel has been purchased yet.
+Vehicle: Mercedes-Benz CL600 C220
+0km travelled requiring 0 litres of fuel at a cost of $0
+No travel has been recorded yet.
+No fuel has been purchased yet.
+Final statistics:
+=================
+Vehicle: Audi A6
+150km travelled requiring 75 litres of fuel at a cost of $62
+This vehicle achieved a fuel economy of 50.0litres/100km.
+The vehicle should have undergone 1 services.
+The average cost of fuel was $0.83 per litre.
+
+Vehicle: Jaguar X200
+250km travelled requiring 82 litres of fuel at a cost of $72
+This vehicle achieved a fuel economy of 32.8litres/100km.
+The vehicle should have undergone 2 services.
+The average cost of fuel was $0.88 per litre.
+
+Vehicle: Mercedes-Benz CL600 C220
+350km travelled requiring 100 litres of fuel at a cost of $100
+This vehicle achieved a fuel economy of 28.6litres/100km.
+The vehicle should have undergone 3 services.
+The average cost of fuel was $1.00 per litre.
