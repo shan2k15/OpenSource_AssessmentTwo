@@ -1,13 +1,13 @@
 
 public class Vehicle {
-	private String			manufacturer;
-	private String			model;
-	private int				makeYear;
+	private String manufacturer;
+	private String model;
+	private int makeYear;
 
-	private Journey			journey;
+	private Journey journey;
 	
 	@SuppressWarnings("unused")
-	private FuelPurchase	fuelPurchase;
+	private FuelPurchase fuelPurchase;
 
 	/**
 	 * Class constructor
